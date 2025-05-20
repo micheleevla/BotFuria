@@ -5,7 +5,7 @@ from telegram.ext import ApplicationBuilder, CallbackQueryHandler, CommandHandle
 
 # Chaves
 TELEGRAM_TOKEN = "8092738476:AAGzaIjIMyVzc8tuPy065MQqaCC8YG6J9n4"
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = "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"
 
 # Logs
 logging.basicConfig(
